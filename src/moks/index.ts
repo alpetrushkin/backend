@@ -1,0 +1,72 @@
+export const users = [
+  {
+    "_id": "64acd2f54e0a873abaaa70fe",
+    "isActive": false,
+    "balance": "$2,038.54",
+    "picture": "http://placehold.it/32x32",
+    "age": 23,
+    "eyeColor": "blue",
+    "name": "Morrison Dillon",
+    "gender": "male",
+    "company": "XYQAG",
+    "email": "morrisondillon@xyqag.com",
+    "phone": "+1 (860) 568-3097",
+    "address": "503 Hendrickson Place, Topaz, Maine, 919"
+  },
+  {
+    "_id": "64acd2f57e9584b856f593cd",
+    "isActive": true,
+    "balance": "$2,151.19",
+    "picture": "http://placehold.it/32x32",
+    "age": 40,
+    "eyeColor": "green",
+    "name": "Durham Hyde",
+    "gender": "male",
+    "company": "DELPHIDE",
+    "email": "durhamhyde@delphide.com",
+    "phone": "+1 (958) 562-2001",
+    "address": "391 Strong Place, Avalon, Delaware, 7226"
+  },
+  {
+    "_id": "64acd2f500f957e80431f5bf",
+    "isActive": false,
+    "balance": "$2,201.34",
+    "picture": "http://placehold.it/32x32",
+    "age": 27,
+    "eyeColor": "blue",
+    "name": "Lolita Simpson",
+    "gender": "female",
+    "company": "GEEKMOSIS",
+    "email": "lolitasimpson@geekmosis.com",
+    "phone": "+1 (917) 449-2794",
+    "address": "461 Bevy Court, Lorraine, Nebraska, 2788"
+  },
+  {
+    "_id": "64acd2f5834017d0e7e04c9a",
+    "isActive": false,
+    "balance": "$1,324.59",
+    "picture": "http://placehold.it/32x32",
+    "age": 30,
+    "eyeColor": "brown",
+    "name": "Edwina Dickerson",
+    "gender": "female",
+    "company": "OLUCORE",
+    "email": "edwinadickerson@olucore.com",
+    "phone": "+1 (847) 442-2381",
+    "address": "999 Sunnyside Avenue, Orovada, Virgin Islands, 1067"
+  },
+  {
+    "_id": "64acd2f5a359918998fd865f",
+    "isActive": true,
+    "balance": "$1,964.00",
+    "picture": "http://placehold.it/32x32",
+    "age": 32,
+    "eyeColor": "green",
+    "name": "Gena Carr",
+    "gender": "female",
+    "company": "KAGE",
+    "email": "genacarr@kage.com",
+    "phone": "+1 (973) 572-2468",
+    "address": "503 Murdock Court, Salix, Massachusetts, 6901"
+  }
+]
